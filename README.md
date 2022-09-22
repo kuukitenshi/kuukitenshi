@@ -8,10 +8,16 @@
 - At the moment, but I want keep learning ❤️ 
 
 <p>
-   <img alt="Java" src="https://img.shields.io/badge/Java-FF7800?logo=JAVA&logoColor=white&style=for-the-badge" />
+   <img alt="Java" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
    <img alt="Css" src="https://img.shields.io/badge/CSS-1E8CBE?logo=css3&logoColor=white&style=for-the-badge" />
    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge" />
+   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+   <img alt="Netlify" src=" https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  
+   
+   
 </p>
  
 ---
