@@ -15,7 +15,8 @@
    <img alt="Ruby"  align= center src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge" />
    <img alt="Python"  align= center src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
    <img alt="Assembly"  align= center src="https://img.shields.io/badge/Assembly-3776AB?style=for-the-badge&logo=&logoColor=white" />
-   
+   <img alt="SQL"  align= center src="https://img.shields.io/badge/SQL-4EA94B?style=for-the-badge&logo=&logoColor=white" />
+
    
    
 </p>
