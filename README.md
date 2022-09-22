@@ -1,5 +1,7 @@
 ### Hi and welcome to my GitHub page! ^^
 
+![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=laura-cunha&show_icons=true&theme=radical)
+
 ---
 ### Programming languages:
 
