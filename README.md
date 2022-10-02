@@ -29,7 +29,6 @@
   <a href="https://www.linkedin.com/in/laura-cunha-28840a245/">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-007785?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  
- <-- ![Snake animation](https://github.com/laura-cunha/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
+
  </p>
  
