@@ -1,7 +1,7 @@
 ### Hi and welcome to my GitHub page! ^^
 
 ![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=laura-cunha&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura-cunha&layout=compact&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laura-cunha&layout=compact&theme=dracula&wheight=center)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### Programming languages:
@@ -17,10 +17,7 @@
    <img alt="Python"  align= center src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
    <img alt="Assembly"  align= center src="https://img.shields.io/badge/Assembly-3776AB?style=for-the-badge&logo=&logoColor=white" />
    <img alt="SQL"  align= center src="https://img.shields.io/badge/SQL-4EA94B?style=for-the-badge&logo=&logoColor=white" />
-   <img alt="Haskell"  align= center src="https://img.shields.io/badge/Haskell-465c69?style=for-the-badge&logo=&logoColor=white" />
-
-   
-   
+   <img alt="Haskell"  align= center src="https://img.shields.io/badge/Haskell-465c69?style=for-the-badge&logo=&logoColor=white" />  
 </p>
  
 ---
