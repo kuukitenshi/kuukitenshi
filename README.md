@@ -2,7 +2,7 @@
 
 ![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=laura-cunha&show_icons=true&theme=dracula&card_width=400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laura-cunha&layout=compact&theme=dracula&wheight=center&langs_count=10&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laura-cunha&layout=compact&theme=dracula&wheight=center&langs_count=10&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### Programming languages:
