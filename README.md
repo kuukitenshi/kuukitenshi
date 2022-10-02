@@ -20,7 +20,8 @@
    <img alt="SQL"  align= center src="https://img.shields.io/badge/SQL-4EA94B?style=for-the-badge&logo=&logoColor=white" />
    <img alt="Haskell"  align= center src="https://img.shields.io/badge/Haskell-465c69?style=for-the-badge&logo=&logoColor=white" />  
 </p>
- 
+
+
 ---
 ### Send me a message!
 
