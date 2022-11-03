@@ -5,7 +5,7 @@
 <!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuukitenshi&layout=compact&theme=dracula&wheight=center&langs_count=10&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuukitenshi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### Programming languages:
