@@ -18,7 +18,7 @@
 <p>
    <img alt="Java" align= center src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
    <img alt="HTML"  align= center src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-   <img alt="Css"  align= center src="https://img.shields.io/badge/CSS-1E8CBE?logo=css3&logoColor=white&style=for-the-badge" />(#)
+   <img alt="Css"  align= center src="https://img.shields.io/badge/CSS-1E8CBE?logo=css3&logoColor=white&style=for-the-badge" />
    <img alt="JavaScript"  align= center src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
    <img alt="Ruby"  align= center src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge" />
    <img alt="Python"  align= center src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
