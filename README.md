@@ -26,7 +26,7 @@
    <img alt="SQL"  align= center src="https://img.shields.io/badge/SQL-4EA94B?style=for-the-badge&logo=&logoColor=white" />
    <img alt="Haskell"  align= center src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" />  
    <img alt="PL/SQL"  align= center src="https://img.shields.io/badge/PL%20SQL-CC342D?style=for-the-badge&logo=oracle&logoColor=black" />  
-   <img alt="Oracle"  align= center src="https://img.shields.io/badge/Oracle%20BD-CC342D?style=for-the-badge&logo=Oracle&logoColor=white" />  
+   <img alt="Oracle"  align= center src="https://img.shields.io/badge/Oracle%20DB-CC342D?style=for-the-badge&logo=Oracle&logoColor=white" />  
 </p>
 
 
