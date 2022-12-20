@@ -24,9 +24,9 @@
    <img alt="Python"  align= center src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
    <img alt="Assembly"  align= center src="https://img.shields.io/badge/Assembly-3776AB?style=for-the-badge&logo=&logoColor=white" />
    <img alt="SQL"  align= center src="https://img.shields.io/badge/SQL-4EA94B?style=for-the-badge&logo=&logoColor=white" />
-   <img alt="Haskell"  align= center src=https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white />  
-   <img alt="PL/SQL"  align= center src=https://https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black />  
-   <img alt="Oracle"  align= center src=https://https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white />  
+   <img alt="Haskell"  align= center src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" />  
+   <img alt="PL/SQL"  align= center src="https://https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" />  
+   <img alt="Oracle"  align= center src="https://https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />  
 </p>
 
 
