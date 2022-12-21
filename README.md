@@ -27,6 +27,7 @@
    <img alt="Haskell"  align= center src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" />  
    <img alt="PL/SQL"  align= center src="https://img.shields.io/badge/PLSQL-CC342D?style=for-the-badge&logo=oracle&logoColor=black" />  
    <img alt="Oracle"  align= center src="https://img.shields.io/badge/Oracle%20DB-CC342D?style=for-the-badge&logo=Oracle&logoColor=white" />  
+   <img alt="LaTeX"  align= center src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" /> 
 </p>
 
 
