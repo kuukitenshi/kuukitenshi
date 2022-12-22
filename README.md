@@ -16,7 +16,7 @@
 <!-- At the moment, but I want keep learning ❤️ -->
 
 <p>
-   <img alt="Java" align= center src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+   <img alt="Java" align= center src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=mocha&logoColor=white" />
    <img alt="HTML"  align= center src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
    <img alt="Css"  align= center src="https://img.shields.io/badge/CSS-1E8CBE?logo=css3&logoColor=white&style=for-the-badge" />
    <img alt="JavaScript"  align= center src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -33,6 +33,7 @@
 
 <!---
 ### Send me a message!
+![brand_java_icon_158844](https://user-images.githubusercontent.com/109172968/209063536-4d091f2c-129b-4572-92b9-55783f2d53df.png)
 
 <p>
   <a href="https://www.linkedin.com/in/laura-cunha-28840a245/">
