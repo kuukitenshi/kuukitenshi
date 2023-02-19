@@ -28,7 +28,7 @@
 ---
 
 ### Send me a message!
-![brand_java_icon_158844](https://user-images.githubusercontent.com/109172968/209063536-4d091f2c-129b-4572-92b9-55783f2d53df.png)
+<!-- ![brand_java_icon_158844](https://user-images.githubusercontent.com/109172968/209063536-4d091f2c-129b-4572-92b9-55783f2d53df.png) -->
 
 <p>
   <a href="https://www.linkedin.com/in/laura-cunha-28840a245/">
