@@ -34,8 +34,8 @@
   <a href="https://www.linkedin.com/in/laura-cunha-28840a245/">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-007785?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://discord.com/users/588831158645686418">
+ <!-- <a href="https://discord.com/users/588831158645686418">
     <img alt="Linkedin" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+  </a>-->
  </p>
  
