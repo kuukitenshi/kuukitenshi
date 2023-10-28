@@ -1,5 +1,13 @@
 ### Hi and welcome to my GitHub page! ^^
 
+- 💻 I'm currently in my third year of software engineering at the Faculty of Science, University of Lisbon. 
+- 🎮 I have an unwavering passion for the world of game development that drives me each day. 
+- 🌿 While I spend most of my time programming in Java, I'm constantly in pursuit of learning, exploring new languages like C# and C++, that i hope to domain in a near future. 
+- ⚡ I'm determined to enhance my skills and use then to help in upcoming challenges.
+
+
+### Stats:
+
 ![Kuuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuukitenshi&show_icons=true&theme=dracula&card_width=400)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuukitenshi&layout=compact&theme=dracula&wheight=center&langs_count=10&card_width=400)
