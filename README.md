@@ -12,9 +12,11 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuukitenshi&layout=compact&theme=dracula&wheight=center&langs_count=10&card_width=400)
 
+![](https://komarev.com/ghpvc/?username=kuukitenshi&style=flat-square)
+
 ### Programming languages:
 
-<!-- At the moment, but I want keep learning ❤️ -->
+At the moment, but always learning ❤️ 
 
 <p>
    <img alt="Java" align= center src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=mocha&logoColor=white" />
@@ -47,4 +49,5 @@
     <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
  </p>
+
  
