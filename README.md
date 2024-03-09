@@ -5,13 +5,14 @@
 - 🌿 While I spend most of my time programming in Java, I'm constantly looking to learn, exploring new languages ​​like C# and C++, which I hope to master in the near future.
 - ⚡ I'm determined to enhance my skills and use then to help in upcoming challenges.
 
-
+---
 ### Stats:
 
 ![Kuuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuukitenshi&show_icons=true&theme=dracula&card_width=400)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuukitenshi&layout=compact&theme=dracula&wheight=center&langs_count=10&card_width=400)
 
 ![](https://komarev.com/ghpvc/?username=kuukitenshi&style=square&color=dd6387)
 
+---
 ### Programming languages:
 
 At the moment, but always learning ❤️ 
