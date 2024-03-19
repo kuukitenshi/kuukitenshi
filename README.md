@@ -32,6 +32,7 @@ At the moment, but always learning ❤️
    <img alt="Oracle"  align= center src="https://img.shields.io/badge/Oracle%20DB-CC342D?style=for-the-badge&logo=Oracle&logoColor=white" />  
    <img alt="LaTeX"  align= center src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" /> 
    <img alt="C#"  align= center src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+   <img alt="C++"  align= center src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
    <img alt="GLSL"  align= center src="https://img.shields.io/badge/GLSL-A435F0?style=for-the-badge&logoColor=white" />
    <img alt="Angular"  align= center src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
    <img alt="MongoDB"  align= center src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
