@@ -36,6 +36,13 @@ At the moment, but always learning ❤️
    <img alt="GLSL"  align= center src="https://img.shields.io/badge/GLSL-A435F0?style=for-the-badge&logoColor=white" />
    <img alt="Angular"  align= center src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
    <img alt="MongoDB"  align= center src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+   <img alt="TypeScript"  align= center src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+   <img alt="Express.js"  align= center src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+   <img alt="SASS"  align= center src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+   <img alt="Docker"  align= center src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+   <img alt="MySQL"  align= center src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+
+
 </p>
 
 
