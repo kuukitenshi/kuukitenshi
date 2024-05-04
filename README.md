@@ -41,6 +41,7 @@ At the moment, but always learning ❤️
    <img alt="SASS"  align= center src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
    <img alt="Docker"  align= center src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
    <img alt="MySQL"  align= center src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+   <img alt="PUG"  align= center src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454" />
 
 
 </p>
