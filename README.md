@@ -1,6 +1,6 @@
 ### Hi and welcome to my GitHub page! ^^
 
-- 💻 I'm currently newly graduated of Computer Science and Engineering at the Faculty of Science, University of Lisbon. 
+- 💻 I'm newly graduated of Computer Science and Engineering at the Faculty of Science, University of Lisbon. 
 - 🎮 I have an unwavering passion for the world of game development that drives me each day. 
 - 🌿 While I spend most of my time programming in Java, I'm constantly looking to learn, exploring new languages ​​like C# and C++, which I hope to master in the near future.
 - ⚡ I'm determined to enhance my skills and use then to help in upcoming challenges.
