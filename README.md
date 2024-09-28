@@ -5,8 +5,9 @@
 - 🌿 While I spend most of my time programming in Java, I'm constantly looking to learn, and exploring new languages ​​like C# and C++, which I hope to master soon.
 - ⚡ I'm determined to enhance my skills and use them to help in upcoming challenges.
 
-#### Projects:
-Currently working in projects on:
+####
+ Projects:
+Currently working on projects:
 - 🧊 [Cubos Game Engine](https://github.com/GameDevTecnico/cubos)
 - 🛰️ IST NanoSat lab 
 - 🖥️ [BloomFilter research](https://github.com/vvcogo/java-longfastbloomfilter/tree/dev)
