@@ -5,8 +5,7 @@
 - 🌿 While I spend most of my time programming in Java, I'm constantly looking to learn, and exploring new languages ​​like C# and C++, which I hope to master soon.
 - ⚡ I'm determined to enhance my skills and use them to help in upcoming challenges.
 
-####
- Projects:
+#### Projects:
 Currently working on projects:
 - 🧊 [Cubos Game Engine](https://github.com/GameDevTecnico/cubos)
 - 🛰️ IST NanoSat lab 
@@ -31,7 +30,8 @@ At the moment, but always learning ❤️
    <img alt="C#"  align= center src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
    <img alt="C++"  align= center src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
    <img alt="Ruby"  align= center src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge" />
-   <img alt="Python"  align= center src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+   <img alt="Python"  align
+= center src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
    <img alt="Shell Script"  align= center src ="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
    <img alt="Assembly"  align= center src="https://img.shields.io/badge/Assembly-3776AB?style=for-the-badge&logo=&logoColor=white" />
    <img alt="SQL"  align= center src="https://img.shields.io/badge/SQL-4EA94B?style=for-the-badge&logo=&logoColor=white" />
