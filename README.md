@@ -16,14 +16,12 @@ Currently working on projects:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=435&size=30&pause=1000&color=E67493&width=435&lines=Stats)](https://git.io/typing-svg)
 
-<div align="center">
+<!--<div align="center">-->
    
-   ![Kuuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuukitenshi&show_icons=true&theme=dracula&card_width=400)  
-   
-   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuukitenshi&layout=compact&theme=dracula&wheight=center&langs_count=10&card_width=400)
+   ![Kuuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuukitenshi&show_icons=true&theme=dracula&card_width=400)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuukitenshi&layout=compact&theme=dracula&wheight=center&langs_count=10&card_width=400)
    
    ![](https://komarev.com/ghpvc/?username=kuukitenshi&style=square&color=dd6387)
-</div>
+<!--</div>-->
 
 <!---------------------------------------------------------------------------------------------------->
 ---
