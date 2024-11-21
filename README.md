@@ -33,7 +33,7 @@ At the moment, but always learning ❤️
 #### Programming Languages:
 
 
-<div align="center">
+<div align="">
    <img alt="Java" align= center src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=mocha&logoColor=white" />
    <img alt="C" align= center src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
    <img alt="C#"  align= center src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -57,7 +57,7 @@ At the moment, but always learning ❤️
 </div>
 
 #### Data Bases:
-<div align="center">
+<div align="">
    <img alt="Oracle"  align= center src="https://img.shields.io/badge/Oracle%20DB-CC342D?style=for-the-badge&logo=Oracle&logoColor=white" />  
    <img alt="MongoDB"  align= center src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
    <img alt="Postgres"  align= center src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -66,13 +66,13 @@ At the moment, but always learning ❤️
 </div>
 
 #### Design:
-<div align="center">
+<div align="">
    <img alt="Blender"  align= center src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
    <img alt="Unity"  align= center src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 </div>
 
 #### Frameworks/ Libraries/ Others:
-<div align="center">
+<div align="">
    <img alt="Angular"  align= center src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
    <img alt="Express.js"  align= center src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
    <img alt="Docker"  align= center src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
