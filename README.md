@@ -7,7 +7,8 @@
 
 #### Projects:
 Currently working on projects:
-- 🧊 [Cubos Game Engine](https://github.com/GameDevTecnico/cubos)
+-
+ 🧊 [Cubos Game Engine](https://github.com/GameDevTecnico/cubos)
 - 🛰️ IST NanoSat lab 
 - 🖥️ [BloomFilter research](https://github.com/vvcogo/java-longfastbloomfilter/tree/dev)
 
@@ -69,6 +70,7 @@ At the moment, but always learning ❤️
 <div align="">
    <img alt="Blender"  align= center src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
    <img alt="Unity"  align= center src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+   <img alt="Godot"  align= center src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" />
 </div>
 
 #### Frameworks/ Libraries/ Others:
