@@ -94,6 +94,9 @@ At the moment, but always learning ❤️
   <a href="https://discord.com/users/588831158645686418">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+  <a href="https://kuukitenshi.itch.io">
+    <img alt="Itch.io" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" />
+  </a>
 </p>
 
  
