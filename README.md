@@ -7,8 +7,7 @@
 
 #### Projects:
 Currently working on projects:
--
- 🧊 [Cubos Game Engine](https://github.com/GameDevTecnico/cubos)
+- 🧊 [Cubos Game Engine](https://github.com/GameDevTecnico/cubos)
 - 🛰️ IST NanoSat lab 
 - 🖥️ [BloomFilter research](https://github.com/vvcogo/java-longfastbloomfilter/tree/dev)
 
