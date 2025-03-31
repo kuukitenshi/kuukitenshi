@@ -46,6 +46,7 @@ At the moment, but always learning ❤️
    <img alt="PL/SQL"  align= center src="https://img.shields.io/badge/PLSQL-CC342D?style=for-the-badge&logo=oracle&logoColor=black" />
    <img alt="Haskell"  align= center src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" />  
    <img alt="Rust"  align= center src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />  
+   <img alt="Julia"  align= center src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />  
 
   
    <img alt="LaTeX"  align= center src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" /> 
