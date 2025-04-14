@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=435&size=35&pause=1000&color=E67493&center=true&vCenter=true&width=435&lines=Hi+and+welcome+to+my+GitHub+page!+%5E%5E)](https://git.io/typing-svg)
 
-- 💻 Currently pursuing an MSc in Computer Science and Engineering at the Instituto Superior Técnico, University of Lisbon, in game development and cybersecurity.
+- 💻 Currently pursuing an MSc in Computer Science and Engineering at the Instituto Superior Técnico, University of Lisbon, in game development, cybersecurity, and distributed systems.
 - 🎮 I have an unwavering passion for the world of game development and space exploration that drives me each day. 
 - 🌿 While I spend most of my time programming in Java, I'm constantly looking to learn, and exploring new languages ​​like C# and C++, which I hope to master soon.
 - ⚡ I'm determined to enhance my skills and use them to help in upcoming challenges.
