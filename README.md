@@ -21,6 +21,7 @@ Currently working on projects:
    ![Kuuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuukitenshi&show_icons=true&theme=dracula&card_width=400)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuukitenshi&layout=compact&theme=dracula&wheight=center&langs_count=10&card_width=400)
    
    ![](https://komarev.com/ghpvc/?username=kuukitenshi&style=square&color=dd6387)
+
 <!--</div>-->
 
 <!---------------------------------------------------------------------------------------------------->
@@ -66,6 +67,7 @@ At the moment, but always learning ❤️
    <img alt="Postgres"  align= center src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
    <img alt="MySQL"  align= center src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
    <img alt="SQLite"  align= center src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+   <img alt="Supabase"  align= center src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
 </div>
 
 #### Design:
@@ -85,7 +87,10 @@ At the moment, but always learning ❤️
    <img alt="Anaconda"  align= center src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
    <img alt="JavaFX"  align= center src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white" />
    <img alt="Spring"  align= center src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+   <img alt="Aws"  align= center src=" https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+   <img alt="AndroidStudio"  align= center src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 </div>
+
 
 <!---------------------------------------------------------------------------------------------------->
 ---
