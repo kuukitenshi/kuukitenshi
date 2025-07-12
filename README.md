@@ -4,6 +4,7 @@
 - 🎮 I have an unwavering passion for the world of game development and space exploration that drives me each day. 
 - 🌿 While I spend most of my time programming in Java, I'm constantly looking to learn, and exploring new languages ​​like C# and C++, which I hope to master soon.
 - ⚡ I'm determined to enhance my skills and use them to help in upcoming challenges.
+- 🧡 Software Engineer intern at Cloudflare.
 
 #### Projects:
 Currently working on projects:
@@ -33,7 +34,6 @@ At the moment, but always learning ❤️
 
 #### Programming Languages:
 
-
 <div align="">
    <img alt="Java" align= center src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=mocha&logoColor=white" />
    <img alt="C" align= center src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -48,9 +48,9 @@ At the moment, but always learning ❤️
    <img alt="Haskell"  align= center src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" />  
    <img alt="Rust"  align= center src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />  
    <img alt="Julia"  align= center src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" /> 
-   <img alt="Go" align= center src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" /> 
+   <img alt="Kotlin"  align= center src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" /> 
    <img alt="Solidity"  align= center src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" /> 
-   
+  
    <img alt="LaTeX"  align= center src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" /> 
    
    <img alt="HTML"  align= center src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
@@ -68,6 +68,7 @@ At the moment, but always learning ❤️
    <img alt="MySQL"  align= center src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
    <img alt="SQLite"  align= center src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
    <img alt="Supabase"  align= center src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
+   <img alt="CH"  align= center src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white" />
 </div>
 
 #### Design:
@@ -89,6 +90,7 @@ At the moment, but always learning ❤️
    <img alt="Spring"  align= center src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
    <img alt="Aws"  align= center src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
    <img alt="AndroidStudio"  align= center src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+   <img alt="GraphQL" align= center src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </div>
 
 
