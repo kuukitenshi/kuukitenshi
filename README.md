@@ -1,36 +1,29 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=435&size=35&pause=1000&color=E67493&center=true&vCenter=true&width=435&lines=Hi+and+welcome+to+my+GitHub+page!+%5E%5E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=435&size=35&pause=1000&color=E67493&center=true&vCenter=true&width=435&lines=Hi+and+welcome!+%5E%5E)](https://git.io/typing-svg)
 
-- 💻 Currently pursuing an MSc in Computer Science and Engineering at the Instituto Superior Técnico, University of Lisbon, in game development, cybersecurity, and distributed systems.
-- 🎮 I have an unwavering passion for the world of game development and space exploration that drives me each day. 
-- 🌿 While I spend most of my time programming in Java, I'm constantly looking to learn, and exploring new languages ​​like C# and C++, which I hope to master soon.
-- ⚡ I'm determined to enhance my skills and use them to help in upcoming challenges.
-- 🧡 Software Engineer intern at Cloudflare.
+- 💻 MSc in Computer Science @IST, focused on Game Development, Cybersecurity, and Distributed Systems
+- 🎮 Passionate about game development and space exploration
+- 🌿 Mostly programming in Java, but currently learning C++ and Go
+- ⚡ CTFs enjoyer
+- 🧡 Software Engineer Intern @Cloudflare
 
-#### Projects:
-Currently working on projects:
+#### Current Projects:
 - 🧊 [Cubos Game Engine](https://github.com/GameDevTecnico/cubos)
 - 🛰️ IST NanoSat lab 
 - 🖥️ [BloomFilter research](https://github.com/vvcogo/java-longfastbloomfilter/tree/dev)
 
-<!---------------------------------------------------------------------------------------------------->
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=435&size=30&pause=1000&color=E67493&width=435&lines=Stats)](https://git.io/typing-svg)
 
-<!--<div align="center">-->
    
-   ![Kuuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuukitenshi&show_icons=true&theme=dracula&card_width=400)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuukitenshi&layout=compact&theme=dracula&wheight=center&langs_count=10&card_width=400)
+![Kuuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuukitenshi&show_icons=true&theme=dracula&card_width=400)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuukitenshi&layout=compact&theme=dracula&wheight=center&langs_count=10&card_width=400)
    
-   ![](https://komarev.com/ghpvc/?username=kuukitenshi&style=square&color=dd6387)
+![](https://komarev.com/ghpvc/?username=kuukitenshi&style=square&color=dd6387)
 
-<!--</div>-->
 
-<!---------------------------------------------------------------------------------------------------->
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=435&size=30&pause=1000&color=E67493&width=435&lines=Technologies)](https://git.io/typing-svg)
-
-At the moment, but always learning ❤️ 
 
 #### Programming Languages:
 
@@ -72,14 +65,14 @@ At the moment, but always learning ❤️
    <img alt="CH"  align= center src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white" />
 </div>
 
-#### Design:
+#### Games:
 <div align="">
    <img alt="Blender"  align= center src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
    <img alt="Unity"  align= center src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
    <img alt="Godot"  align= center src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" />
 </div>
 
-#### Frameworks/ Libraries/ Others:
+#### Others:
 <div align="">
    <img alt="Angular"  align= center src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
    <img alt="Express.js"  align= center src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
@@ -99,7 +92,7 @@ At the moment, but always learning ❤️
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=435&size=28&pause=1000&color=2DCCE6&width=435&lines=Send+me+a+message!)](https://git.io/typing-svg)
-<!-- ![brand_java_icon_158844](https://user-images.githubusercontent.com/109172968/209063536-4d091f2c-129b-4572-92b9-55783f2d53df.png) -->
+
 <p>
   <a href="https://discord.com/users/588831158645686418">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
