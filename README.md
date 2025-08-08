@@ -26,7 +26,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=100&color=7852A9&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Stats" width="80%" />
 </div>
 
-<div style="position: relative; width: 100%; text-align: center;">
+<div align="center">
     <div style="text-align: left;">
       <img src="https://github-readme-stats.vercel.app/api?username=kuukitenshi&show_icons=true&theme=tokyonight&card_width=400" alt="GitHub Stats" style="display: block; margin-bottom: 10px;" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuukitenshi&layout=compact&theme=tokyonight&wheight=center&langs_count=10&card_width=400" alt="Top Languages" />
@@ -63,6 +63,13 @@
 <img alt="Angular"  align= center src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /><img alt="Express.js"  align= center src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /><img alt="Docker"  align= center src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /><img alt="PUG"  align= center src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454" /><img alt="GLSL"  align= center src="https://img.shields.io/badge/GLSL-A435F0?style=for-the-badge&logoColor=white" /><img alt="Anaconda"  align= center src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" /><img alt="JavaFX"  align= center src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white" /><img alt="Spring"  align= center src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /><img alt="Aws"  align= center src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /><img alt="GraphQL" align= center src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 <img alt="AndroidStudio"  align= center src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 </div>
+
+</pre>
+<img src="assets/bulbasur.gif" width="20%" align="right" />
+
+<details>
+  <summary></summary>
+<pre>
     .o88o.                               o8o                .
     888 `"                               `"'              .o8
    o888oo   .oooo.o  .ooooo.   .ooooo.  oooo   .ooooo.  .o888oo oooo    ooo
@@ -73,6 +80,7 @@
                                                                 .o...P'
                                                                 `XER0'
 </pre>
+</details>
 
 
  
