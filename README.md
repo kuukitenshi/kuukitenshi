@@ -68,7 +68,7 @@
 <img src="assets/bulbasur.gif" width="20%" align="right" />
 
 <details>
-  <summary></summary>
+  <summary>f</summary>
 <pre>
     .o88o.                               o8o                .
     888 `"                               `"'              .o8
