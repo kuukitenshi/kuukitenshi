@@ -11,19 +11,22 @@
        📖 <a href="https://github.com/vvcogo/java-longfastbloomfilter/tree/dev">BloomFilter research</a>
        🎮 Music • Games • Anime • 🐾 Doggies
 </pre>
-<br><br>
-<img src="assets/absol.gif" height="110" /><img src="assets/chikorita.gif" height="50" /><img src="assets/eevee.gif" height="60" /><img src="assets/pika.gif" height="50" /><img src="assets/umbreon.gif" height="95" />
-<br><br><br>
-   
+       
 [![](https://img.shields.io/badge/discord-6364ff)](https://discord.com/users/588831158645686418)
 [![](https://img.shields.io/badge/Itch.io-ff66ab)](https://kuukitenshi.itch.io)
+
+<img src="assets/absol.gif" height="110" /><img src="assets/chikorita.gif" height="50" /><img src="assets/eevee.gif" height="60" /><img src="assets/pika.gif" height="50" /><img src="assets/umbreon.gif" height="95" />
+<br>
 </div>
 
--------
+<img src="assets/silveon.gif" width="10%" align="right" />
+
+---
 <div style="position: relative; width: 100%; text-align: center;">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=100&color=7852A9&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Stats" width="80%" />
-       
-  <div style="display: flex; justify-content: flex-end; align-items: flex-end; gap: 20px; position: relative;">
+</div>
+
+<div style="position: relative; width: 100%; text-align: center;">
     <div style="text-align: left;">
       <img src="https://github-readme-stats.vercel.app/api?username=kuukitenshi&show_icons=true&theme=tokyonight&card_width=400" alt="GitHub Stats" style="display: block; margin-bottom: 10px;" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuukitenshi&layout=compact&theme=tokyonight&wheight=center&langs_count=10&card_width=400" alt="Top Languages" />
@@ -32,9 +35,8 @@
        <img src="https://komarev.com/ghpvc/?username=kuukitenshi&style=square&color=7852A9" alt="Visitor Count" align="center" />
       </div>
      </div>
-   </div>
-  <img src="assets/silveon.gif" width="10%" align="right" />
 </div>
+<img src="assets/charmander.gif" width="10%" align="left" />
 
 -------
 <div align="center">
