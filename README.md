@@ -40,7 +40,7 @@
 
 -------
 <div align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=100&color=7852A9&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Techs" width="80%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=100&color=7852A9&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Techs" width="80%" />
 </div>
 <pre>
 <div align="center">
