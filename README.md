@@ -5,7 +5,7 @@
 <pre>
        💻 MSc in Computer Science and Engineering @IST 
        🌿 Game Dev • Cybersecurity • Distributed Systems
-       🧡 Software Engineer Intern @Cloudflare
+       🧡 Software Engineer @Cloudflare
        ✨ Code • CTFs • Space Exploration
        🧊 <a href="https://github.com/GameDevTecnico/cubos">Cubos Game Engine</a> • 🛰️ IST NanoSat lab 
        📖 <a href="https://github.com/vvcogo/java-longfastbloomfilter/tree/dev">BloomFilter research</a>
