@@ -11,7 +11,10 @@
        📖 <a href="https://github.com/vvcogo/java-longfastbloomfilter/tree/dev">BloomFilter research</a>
        🎮 Music • Games • Anime • 🐾 Doggies
 </pre>
-       
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=25&duration=4000&pause=1000&color=7852A9&center=true&width=435&lines=Reach+me+here)](https://git.io/typing-svg)
+
 [![](https://img.shields.io/badge/discord-6364ff)](https://discord.com/users/588831158645686418)
 [![](https://img.shields.io/badge/Itch.io-ff66ab)](https://kuukitenshi.itch.io)
 
