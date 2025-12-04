@@ -31,8 +31,8 @@
 
 <div align="center">
     <div style="text-align: left;">
-      <img src="https://github-readme-stats.vercel.app/api?username=kuukitenshi&show_icons=true&theme=tokyonight&card_width=400" alt="GitHub Stats" style="display: block; margin-bottom: 10px;" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuukitenshi&layout=compact&theme=tokyonight&wheight=center&langs_count=10&card_width=400" alt="Top Languages" />
+      <img src="https://github-readme-stats-azip.vercel.app/api?username=kuukitenshi&show_icons=true&theme=tokyonight&card_width=400" alt="GitHub Stats" style="display: block; margin-bottom: 10px;" />
+      <img src="https://github-readme-stats-azip.vercel.app/api/top-langs/?username=kuukitenshi&layout=compact&theme=tokyonight&wheight=center&langs_count=10&card_width=400" alt="Top Languages" />
       <br><br>
       <div align="center">
        <img src="https://komarev.com/ghpvc/?username=kuukitenshi&style=square&color=7852A9" alt="Visitor Count" align="center" />
